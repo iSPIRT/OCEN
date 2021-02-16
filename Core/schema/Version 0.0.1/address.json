@@ -1,6 +1,6 @@
 {
 	"$schema": "http://json-schema.org/draft-07/schema#", 
-	"$id": "https://github.com/juspay/lsp-lender-protocol-specification/blob/master/Core/schema/Version%200.0.1/address.json", 
+	"$id": "https://github.com/iSPIRT/lsp-lender-protocol-specification/blob/master/Core/schema/Version%200.0.1/address.json", 
 	"title": "Root", 
 	"type": "object",
 	"required": [
@@ -87,7 +87,7 @@
 			]
 		},
 		"extensibleData":{
-			"$ref": "https://github.com/juspay/lsp-lender-protocol-specification/blob/master/Core/schema/Version%200.0.1/extensibleData.json"
+			"$ref": "https://github.com/iSPIRT/lsp-lender-protocol-specification/blob/master/Core/schema/Version%200.0.1/extensibleData.json"
 		}
 	}
 }

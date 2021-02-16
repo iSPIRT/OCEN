@@ -14,7 +14,7 @@
                     "content":{
                         "application/json":{
                             "schema":{
-                                "$ref":"https://github.com/juspay/lsp-lender-protocol-specification/blob/master/Meta%20APIs/schema/Verion%200.0.1/Get%20Lookup/GetLookupsRequest.json"
+                                "$ref":"https://github.com/iSPIRT/lsp-lender-protocol-specification/blob/master/Meta%20APIs/schema/Verion%200.0.1/Get%20Lookup/GetLookupsRequest.json"
                             }
                         }
                     }
@@ -25,7 +25,7 @@
                         "content":{
                             "application/json":{
                                 "schema":{
-                                    "$ref":"https://github.com/juspay/lsp-lender-protocol-specification/blob/master/Core/schema/Version%200.0.1/ack.json"
+                                    "$ref":"https://github.com/iSPIRT/lsp-lender-protocol-specification/blob/master/Core/schema/Version%200.0.1/ack.json"
                                 }
                             }
                         }
@@ -43,7 +43,7 @@
                     "content":{
                         "application/json":{
                             "schema":{
-                                "$ref":"https://github.com/juspay/lsp-lender-protocol-specification/blob/master/Meta%20APIs/schema/Verion%200.0.1/Get%20Lookup/GetLookupsResponse.json"
+                                "$ref":"https://github.com/iSPIRT/lsp-lender-protocol-specification/blob/master/Meta%20APIs/schema/Verion%200.0.1/Get%20Lookup/GetLookupsResponse.json"
                             }
                         }
                     }
@@ -54,7 +54,7 @@
                         "content":{
                             "application/json":{
                                 "schema":{
-                                    "$ref":"https://github.com/juspay/lsp-lender-protocol-specification/blob/master/Core/schema/Version%200.0.1/ack.json"
+                                    "$ref":"https://github.com/iSPIRT/lsp-lender-protocol-specification/blob/master/Core/schema/Version%200.0.1/ack.json"
                                 }
                             }
                         }

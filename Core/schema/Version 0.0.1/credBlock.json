@@ -1,6 +1,6 @@
 {
 	"$schema": "http://json-schema.org/draft-07/schema#", 
-	"$id": "https://github.com/juspay/lsp-lender-protocol-specification/blob/master/Core/schema/Version%200.0.1/credBlock.json", 
+	"$id": "https://github.com/iSPIRT/lsp-lender-protocol-specification/blob/master/Core/schema/Version%200.0.1/credBlock.json", 
 	"type": "object",
 	"required": [
 		"type",
@@ -14,10 +14,10 @@
 			]
 		},
 		"data": {
-			"$ref": "https://github.com/juspay/lsp-lender-protocol-specification/blob/master/Core/schema/Version%200.0.1/OTPBlock.json"
+			"$ref": "https://github.com/iSPIRT/lsp-lender-protocol-specification/blob/master/Core/schema/Version%200.0.1/OTPBlock.json"
 		},
 		"extensibleData":{
-			"$ref": "https://github.com/juspay/lsp-lender-protocol-specification/blob/master/Core/schema/Version%200.0.1/extensibleData.json"
+			"$ref": "https://github.com/iSPIRT/lsp-lender-protocol-specification/blob/master/Core/schema/Version%200.0.1/extensibleData.json"
 		}
 
 	}

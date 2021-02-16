@@ -14,7 +14,7 @@
                     "content":{
                         "application/json":{
                             "schema":{
-                                "$ref":"https://github.com/juspay/lsp-lender-protocol-specification/blob/master/Dispute%20Management/schema/Version%200.0.1/Raise%20Dispute/RaiseDisputeRequest.json"
+                                "$ref":"https://github.com/iSPIRT/lsp-lender-protocol-specification/blob/master/Dispute%20Management/schema/Version%200.0.1/Raise%20Dispute/RaiseDisputeRequest.json"
                             }
                         }
                     }
@@ -25,7 +25,7 @@
                         "content":{
                             "application/json":{
                                 "schema":{
-                                    "$ref":"https://github.com/juspay/lsp-lender-protocol-specification/blob/master/Core/schema/Version%200.0.1/ack.json"
+                                    "$ref":"https://github.com/iSPIRT/lsp-lender-protocol-specification/blob/master/Core/schema/Version%200.0.1/ack.json"
                                 }
                             }
                         }
@@ -41,7 +41,7 @@
                     "content":{
                         "application/json":{
                             "schema":{
-                                "$ref":"https://github.com/juspay/lsp-lender-protocol-specification/blob/master/Dispute%20Management/schema/Version%200.0.1/Raise%20Dispute/RaiseDisputeResponse.json"
+                                "$ref":"https://github.com/iSPIRT/lsp-lender-protocol-specification/blob/master/Dispute%20Management/schema/Version%200.0.1/Raise%20Dispute/RaiseDisputeResponse.json"
                             }
                         }
                     }
@@ -52,7 +52,7 @@
                         "content":{
                             "application/json":{
                                 "schema":{
-                                    "$ref":"https://github.com/juspay/lsp-lender-protocol-specification/blob/master/Core/schema/Version%200.0.1/ack.json"
+                                    "$ref":"https://github.com/iSPIRT/lsp-lender-protocol-specification/blob/master/Core/schema/Version%200.0.1/ack.json"
                                 }
                             }
                         }
@@ -68,7 +68,7 @@
                     "content":{
                         "application/json":{
                             "schema":{
-                                "$ref":"https://github.com/juspay/lsp-lender-protocol-specification/blob/master/Dispute%20Management/schema/Version%200.0.1/Dispute%20Status/DisputeStatusRequest.json"
+                                "$ref":"https://github.com/iSPIRT/lsp-lender-protocol-specification/blob/master/Dispute%20Management/schema/Version%200.0.1/Dispute%20Status/DisputeStatusRequest.json"
                             }
                         }
                     }
@@ -79,7 +79,7 @@
                         "content":{
                             "application/json":{
                                 "schema":{
-                                    "$ref":"https://github.com/juspay/lsp-lender-protocol-specification/blob/master/Core/schema/Version%200.0.1/ack.json"
+                                    "$ref":"https://github.com/iSPIRT/lsp-lender-protocol-specification/blob/master/Core/schema/Version%200.0.1/ack.json"
                                 }
                             }
                         }
@@ -95,7 +95,7 @@
                     "content":{
                         "application/json":{
                             "schema":{
-                                "$ref":"https://github.com/juspay/lsp-lender-protocol-specification/blob/master/Dispute%20Management/schema/Version%200.0.1/Dispute%20Status/DisputeStatusResponse.json"
+                                "$ref":"https://github.com/iSPIRT/lsp-lender-protocol-specification/blob/master/Dispute%20Management/schema/Version%200.0.1/Dispute%20Status/DisputeStatusResponse.json"
                             }
                         }
                     }
@@ -106,7 +106,7 @@
                         "content":{
                             "application/json":{
                                 "schema":{
-                                    "$ref":"https://github.com/juspay/lsp-lender-protocol-specification/blob/master/Core/schema/Version%200.0.1/ack.json"
+                                    "$ref":"https://github.com/iSPIRT/lsp-lender-protocol-specification/blob/master/Core/schema/Version%200.0.1/ack.json"
                                 }
                             }
                         }

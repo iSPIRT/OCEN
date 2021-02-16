@@ -1,6 +1,6 @@
 {
 	"$schema": "http://json-schema.org/draft-07/schema#", 
-	"$id": "https://github.com/juspay/lsp-lender-protocol-specification/blob/master/Core/schema/Version%200.0.1/disbursement.json",  
+	"$id": "https://github.com/iSPIRT/lsp-lender-protocol-specification/blob/master/Core/schema/Version%200.0.1/disbursement.json",  
 	"type": "object",
 	"required": [
 		"plans"
@@ -9,7 +9,7 @@
 		"plans": {
 			"type": "array",
 			"items":{
-                "$ref": "https://github.com/juspay/lsp-lender-protocol-specification/blob/master/Core/schema/Version%200.0.1/paymentplan.json"
+                "$ref": "https://github.com/iSPIRT/lsp-lender-protocol-specification/blob/master/Core/schema/Version%200.0.1/paymentplan.json"
             }
 				
 
@@ -17,7 +17,7 @@
 		"accountDetails": { 
 			"type":"array",
 			"items": {
-			"$ref": "https://github.com/juspay/lsp-lender-protocol-specification/blob/master/Core/schema/Version%200.0.1/accountdetails.json"
+			"$ref": "https://github.com/iSPIRT/lsp-lender-protocol-specification/blob/master/Core/schema/Version%200.0.1/accountdetails.json"
 		}
 	}
 	}

@@ -1,6 +1,6 @@
 {
 	"$schema": "http://json-schema.org/draft-07/schema#", 
-	"$id": "https://github.com/juspay/lsp-lender-protocol-specification/blob/master/Disbursement/schema/Version%200.0.1/Set%20Disbursement%20Account/SetDisbursementAccountRequest.json",  
+	"$id": "https://github.com/iSPIRT/lsp-lender-protocol-specification/blob/master/Disbursement/schema/Version%200.0.1/Set%20Disbursement%20Account/SetDisbursementAccountRequest.json",  
 	"type": "object",
 	"required": [
 		"metadata",
@@ -10,7 +10,7 @@
 	],
 	"properties": {
 		"metadata": { 
-            "$ref": "https://github.com/juspay/lsp-lender-protocol-specification/blob/master/Core/schema/Version%200.0.1/metadata.json"
+            "$ref": "https://github.com/iSPIRT/lsp-lender-protocol-specification/blob/master/Core/schema/Version%200.0.1/metadata.json"
 		}
 ,
 		"requestId": { 
@@ -29,7 +29,7 @@
 			"type":"string"
 		},
 		"account": { 
-			"$ref": "https://github.com/juspay/lsp-lender-protocol-specification/blob/master/Core/schema/Version%200.0.1/accountdetails.json"
+			"$ref": "https://github.com/iSPIRT/lsp-lender-protocol-specification/blob/master/Core/schema/Version%200.0.1/accountdetails.json"
 		}
 
 	}

@@ -1,6 +1,6 @@
 {
 	"$schema": "http://json-schema.org/draft-07/schema#", 
-	"$id": "https://github.com/juspay/lsp-lender-protocol-specification/blob/master/Grant%20Loan/schema/Version%200.0.1/Get%20Loan/GetLoanResponse.json", 
+	"$id": "https://github.com/iSPIRT/lsp-lender-protocol-specification/blob/master/Grant%20Loan/schema/Version%200.0.1/Get%20Loan/GetLoanResponse.json", 
 	"type": "object",
 	"required": [
 		"metadata",
@@ -23,11 +23,11 @@
 	],
 	"properties": {
 		"metadata": {
-			"$ref": "https://github.com/juspay/lsp-lender-protocol-specification/blob/master/Core/schema/Version%200.0.1/metadata.json"
+			"$ref": "https://github.com/iSPIRT/lsp-lender-protocol-specification/blob/master/Core/schema/Version%200.0.1/metadata.json"
 		}
 ,
 		"response": { 
-			"$ref": "https://github.com/juspay/lsp-lender-protocol-specification/blob/master/Core/schema/Version%200.0.1/response.json"
+			"$ref": "https://github.com/iSPIRT/lsp-lender-protocol-specification/blob/master/Core/schema/Version%200.0.1/response.json"
 		}
 ,
 		"loanId": { 
@@ -59,41 +59,41 @@
 			]
 		},
 		"borrower": {
-			"$ref": "https://github.com/juspay/lsp-lender-protocol-specification/blob/master/Core/schema/Version%200.0.1/borrower.json"
+			"$ref": "https://github.com/iSPIRT/lsp-lender-protocol-specification/blob/master/Core/schema/Version%200.0.1/borrower.json"
 		},
 		"lender":{
-			"$ref": "https://github.com/juspay/lsp-lender-protocol-specification/blob/master/Core/schema/Version%200.0.1/lender.json"
+			"$ref": "https://github.com/iSPIRT/lsp-lender-protocol-specification/blob/master/Core/schema/Version%200.0.1/lender.json"
 		},
 		"collaterals": {
 			"type": "array",
 			"items":{
-            "$ref": "https://github.com/juspay/lsp-lender-protocol-specification/blob/master/Core/schema/Version%200.0.1/collateral.json"
+            "$ref": "https://github.com/iSPIRT/lsp-lender-protocol-specification/blob/master/Core/schema/Version%200.0.1/collateral.json"
             }
 
 		},
 		"guarantors": {
 			"type": "array",
 			"items": {
-				"$ref": "https://github.com/juspay/lsp-lender-protocol-specification/blob/master/Core/schema/Version%200.0.1/guarantor.json"
+				"$ref": "https://github.com/iSPIRT/lsp-lender-protocol-specification/blob/master/Core/schema/Version%200.0.1/guarantor.json"
 			}
 		},
 		"applicants": { 
 			"type": "array",
 			"items":{
-				"$ref": "https://github.com/juspay/lsp-lender-protocol-specification/blob/master/Core/schema/Version%200.0.1/applicant.json"
+				"$ref": "https://github.com/iSPIRT/lsp-lender-protocol-specification/blob/master/Core/schema/Version%200.0.1/applicant.json"
 			}
 
 		},
 		"terms": {
-			"$ref": "https://github.com/juspay/lsp-lender-protocol-specification/blob/master/Core/schema/Version%200.0.1/loanterms.json"
+			"$ref": "https://github.com/iSPIRT/lsp-lender-protocol-specification/blob/master/Core/schema/Version%200.0.1/loanterms.json"
 		}
 ,
 		"disbursement": {
-			"$ref": "https://github.com/juspay/lsp-lender-protocol-specification/blob/master/Core/schema/Version%200.0.1/chosenDisbursement.json"
+			"$ref": "https://github.com/iSPIRT/lsp-lender-protocol-specification/blob/master/Core/schema/Version%200.0.1/chosenDisbursement.json"
 		}
 ,
 		"repayment": {
-			"$ref": "https://github.com/juspay/lsp-lender-protocol-specification/blob/master/Core/schema/Version%200.0.1/chosenRepayment.json"
+			"$ref": "https://github.com/iSPIRT/lsp-lender-protocol-specification/blob/master/Core/schema/Version%200.0.1/chosenRepayment.json"
 		}
 
 	}

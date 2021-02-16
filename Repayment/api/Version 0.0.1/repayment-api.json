@@ -14,7 +14,7 @@
                     "content":{
                         "application/json":{
                             "schema":{
-                                "$ref":"https://github.com/juspay/lsp-lender-protocol-specification/blob/master/Repayment/schema/Version%200.0.1/Get%20Repayment%20Plans/GetRepaymentPlansRequest.json"
+                                "$ref":"https://github.com/iSPIRT/lsp-lender-protocol-specification/blob/master/Repayment/schema/Version%200.0.1/Get%20Repayment%20Plans/GetRepaymentPlansRequest.json"
                             }
                         }
                     }
@@ -25,7 +25,7 @@
                         "content":{
                             "application/json":{
                                 "schema":{
-                                    "$ref":"https://github.com/juspay/lsp-lender-protocol-specification/blob/master/Core/schema/Version%200.0.1/ack.json"
+                                    "$ref":"https://github.com/iSPIRT/lsp-lender-protocol-specification/blob/master/Core/schema/Version%200.0.1/ack.json"
                                 }
                             }
                         }
@@ -41,7 +41,7 @@
                     "content":{
                         "application/json":{
                             "schema":{
-                                "$ref":"https://github.com/juspay/lsp-lender-protocol-specification/blob/master/Repayment/schema/Version%200.0.1/Get%20Repayment%20Plans/GetRepaymentPlansResponse.json"
+                                "$ref":"https://github.com/iSPIRT/lsp-lender-protocol-specification/blob/master/Repayment/schema/Version%200.0.1/Get%20Repayment%20Plans/GetRepaymentPlansResponse.json"
                             }
                         }
                     }
@@ -52,7 +52,7 @@
                         "content":{
                             "application/json":{
                                 "schema":{
-                                    "$ref":"https://github.com/juspay/lsp-lender-protocol-specification/blob/master/Core/schema/Version%200.0.1/ack.json"
+                                    "$ref":"https://github.com/iSPIRT/lsp-lender-protocol-specification/blob/master/Core/schema/Version%200.0.1/ack.json"
                                 }
                             }
                         }
@@ -68,7 +68,7 @@
                     "content":{
                         "application/json":{
                             "schema":{
-                                "$ref":"https://github.com/juspay/lsp-lender-protocol-specification/blob/master/Repayment/schema/Version%200.0.1/Set%20Repayment%20Plan/SetRepayementPlanRequest.json"
+                                "$ref":"https://github.com/iSPIRT/lsp-lender-protocol-specification/blob/master/Repayment/schema/Version%200.0.1/Set%20Repayment%20Plan/SetRepayementPlanRequest.json"
                             }
                         }
                     }
@@ -79,7 +79,7 @@
                         "content":{
                             "application/json":{
                                 "schema":{
-                                    "$ref":"https://github.com/juspay/lsp-lender-protocol-specification/blob/master/Core/schema/Version%200.0.1/ack.json"
+                                    "$ref":"https://github.com/iSPIRT/lsp-lender-protocol-specification/blob/master/Core/schema/Version%200.0.1/ack.json"
                                 }
                             }
                         }
@@ -95,7 +95,7 @@
                     "content":{
                         "application/json":{
                             "schema":{
-                                "$ref":"https://github.com/juspay/lsp-lender-protocol-specification/blob/master/Repayment/schema/Version%200.0.1/Set%20Repayment%20Plan/SetRepaymentPlanResponse.json"
+                                "$ref":"https://github.com/iSPIRT/lsp-lender-protocol-specification/blob/master/Repayment/schema/Version%200.0.1/Set%20Repayment%20Plan/SetRepaymentPlanResponse.json"
                             }
                         }
                     }
@@ -106,7 +106,7 @@
                         "content":{
                             "application/json":{
                                 "schema":{
-                                    "$ref":"https://github.com/juspay/lsp-lender-protocol-specification/blob/master/Core/schema/Version%200.0.1/ack.json"
+                                    "$ref":"https://github.com/iSPIRT/lsp-lender-protocol-specification/blob/master/Core/schema/Version%200.0.1/ack.json"
                                 }
                             }
                         }
@@ -122,7 +122,7 @@
                     "content":{
                         "application/json":{
                             "schema":{
-                                "$ref":"https://github.com/juspay/lsp-lender-protocol-specification/blob/master/Repayment/schema/Version%200.0.1/Set%20Repayment%20Plan%20Status/SetRepayementPlanStatusRequest.json"
+                                "$ref":"https://github.com/iSPIRT/lsp-lender-protocol-specification/blob/master/Repayment/schema/Version%200.0.1/Set%20Repayment%20Plan%20Status/SetRepayementPlanStatusRequest.json"
                             }
                         }
                     }
@@ -133,7 +133,7 @@
                         "content":{
                             "application/json":{
                                 "schema":{
-                                    "$ref":"https://github.com/juspay/lsp-lender-protocol-specification/blob/master/Core/schema/Version%200.0.1/ack.json"
+                                    "$ref":"https://github.com/iSPIRT/lsp-lender-protocol-specification/blob/master/Core/schema/Version%200.0.1/ack.json"
                                 }
                             }
                         }
@@ -149,7 +149,7 @@
                     "content":{
                         "application/json":{
                             "schema":{
-                                "$ref":"https://github.com/juspay/lsp-lender-protocol-specification/blob/master/Repayment/schema/Version%200.0.1/Set%20Repayment%20Plan%20Status/SetRepaymentPlanStatusResponse.json"
+                                "$ref":"https://github.com/iSPIRT/lsp-lender-protocol-specification/blob/master/Repayment/schema/Version%200.0.1/Set%20Repayment%20Plan%20Status/SetRepaymentPlanStatusResponse.json"
                             }
                         }
                     }
@@ -160,7 +160,7 @@
                         "content":{
                             "application/json":{
                                 "schema":{
-                                    "$ref":"https://github.com/juspay/lsp-lender-protocol-specification/blob/master/Core/schema/Version%200.0.1/ack.json"
+                                    "$ref":"https://github.com/iSPIRT/lsp-lender-protocol-specification/blob/master/Core/schema/Version%200.0.1/ack.json"
                                 }
                             }
                         }
@@ -176,7 +176,7 @@
                             "content":{
                                 "application/json":{
                                     "schema":{
-                                        "$ref":"https://github.com/juspay/lsp-lender-protocol-specification/blob/master/Repayment/schema/Version%200.0.1/Trigger%20Repayment/TriggerRepaymentRequest.json"
+                                        "$ref":"https://github.com/iSPIRT/lsp-lender-protocol-specification/blob/master/Repayment/schema/Version%200.0.1/Trigger%20Repayment/TriggerRepaymentRequest.json"
                                     }
                                 }
                             }
@@ -187,7 +187,7 @@
                                 "content":{
                                     "application/json":{
                                         "schema":{
-                                            "$ref":"https://github.com/juspay/lsp-lender-protocol-specification/blob/master/Core/schema/Version%200.0.1/ack.json"
+                                            "$ref":"https://github.com/iSPIRT/lsp-lender-protocol-specification/blob/master/Core/schema/Version%200.0.1/ack.json"
                                         }
                                     }
                                 }
@@ -203,7 +203,7 @@
                             "content":{
                                 "application/json":{
                                     "schema":{
-                                        "$ref":"https://github.com/juspay/lsp-lender-protocol-specification/blob/master/Repayment/schema/Version%200.0.1/Trigger%20Repayment/TriggerRepaymentResponse.json"
+                                        "$ref":"https://github.com/iSPIRT/lsp-lender-protocol-specification/blob/master/Repayment/schema/Version%200.0.1/Trigger%20Repayment/TriggerRepaymentResponse.json"
                                     }
                                 }
                             }
@@ -214,7 +214,7 @@
                                 "content":{
                                     "application/json":{
                                         "schema":{
-                                            "$ref":"https://github.com/juspay/lsp-lender-protocol-specification/blob/master/Core/schema/Version%200.0.1/ack.json"
+                                            "$ref":"https://github.com/iSPIRT/lsp-lender-protocol-specification/blob/master/Core/schema/Version%200.0.1/ack.json"
                                         }
                                     }
                                 }
@@ -230,7 +230,7 @@
                             "content":{
                                 "application/json":{
                                     "schema":{
-                                        "$ref":"https://github.com/juspay/lsp-lender-protocol-specification/blob/master/Repayment/schema/Version%200.0.1/Trigger%20Repayment%20Status/TriggerRepaymentStatusRequest.json"
+                                        "$ref":"https://github.com/iSPIRT/lsp-lender-protocol-specification/blob/master/Repayment/schema/Version%200.0.1/Trigger%20Repayment%20Status/TriggerRepaymentStatusRequest.json"
                                     }
                                 }
                             }
@@ -241,7 +241,7 @@
                                 "content":{
                                     "application/json":{
                                         "schema":{
-                                            "$ref":"https://github.com/juspay/lsp-lender-protocol-specification/blob/master/Core/schema/Version%200.0.1/ack.json"
+                                            "$ref":"https://github.com/iSPIRT/lsp-lender-protocol-specification/blob/master/Core/schema/Version%200.0.1/ack.json"
                                         }
                                     }
                                 }
@@ -257,7 +257,7 @@
                             "content":{
                                 "application/json":{
                                     "schema":{
-                                        "$ref":"https://github.com/juspay/lsp-lender-protocol-specification/blob/master/Repayment/schema/Version%200.0.1/Trigger%20Repayment%20Status/TriggerRepaymentStatusResponse.json"
+                                        "$ref":"https://github.com/iSPIRT/lsp-lender-protocol-specification/blob/master/Repayment/schema/Version%200.0.1/Trigger%20Repayment%20Status/TriggerRepaymentStatusResponse.json"
                                     }
                                 }
                             }
@@ -268,7 +268,7 @@
                                 "content":{
                                     "application/json":{
                                         "schema":{
-                                            "$ref":"https://github.com/juspay/lsp-lender-protocol-specification/blob/master/Core/schema/Version%200.0.1/ack.json"
+                                            "$ref":"https://github.com/iSPIRT/lsp-lender-protocol-specification/blob/master/Core/schema/Version%200.0.1/ack.json"
                                         }
                                     }
                                 }
@@ -284,7 +284,7 @@
                             "content":{
                                 "application/json":{
                                     "schema":{
-                                        "$ref":"https://github.com/juspay/lsp-lender-protocol-specification/blob/master/Repayment/schema/Version%200.0.1/Confirm%20Repayment/ConfirmRepaymentRequest.json"
+                                        "$ref":"https://github.com/iSPIRT/lsp-lender-protocol-specification/blob/master/Repayment/schema/Version%200.0.1/Confirm%20Repayment/ConfirmRepaymentRequest.json"
                                     }
                                 }
                             }
@@ -295,7 +295,7 @@
                                 "content":{
                                     "application/json":{
                                         "schema":{
-                                            "$ref":"https://github.com/juspay/lsp-lender-protocol-specification/blob/master/Core/schema/Version%200.0.1/ack.json"
+                                            "$ref":"https://github.com/iSPIRT/lsp-lender-protocol-specification/blob/master/Core/schema/Version%200.0.1/ack.json"
                                         }
                                     }
                                 }

@@ -1,6 +1,6 @@
 {
 	"$schema": "http://json-schema.org/draft-07/schema#", 
-	"$id": "https://github.com/juspay/lsp-lender-protocol-specification/blob/master/Disbursement/schema/Version%200.0.1/Trigger%20Disbursement/TriggerDisbursementRequest.json", 
+	"$id": "https://github.com/iSPIRT/lsp-lender-protocol-specification/blob/master/Disbursement/schema/Version%200.0.1/Trigger%20Disbursement/TriggerDisbursementRequest.json", 
 	"type": "object",
 	"required": [
 		"metadata",
@@ -10,7 +10,7 @@
 	],
 	"properties": {
 		"metadata": {
-			"$ref": "https://github.com/juspay/lsp-lender-protocol-specification/blob/master/Core/schema/Version%200.0.1/metadata.json"
+			"$ref": "https://github.com/iSPIRT/lsp-lender-protocol-specification/blob/master/Core/schema/Version%200.0.1/metadata.json"
 		}
 ,
 		"loanId": {
@@ -26,7 +26,7 @@
 			]
 		},
 		"payment": {
-			"$ref": "https://github.com/juspay/lsp-lender-protocol-specification/blob/master/Core/schema/Version%200.0.1/payment.json"
+			"$ref": "https://github.com/iSPIRT/lsp-lender-protocol-specification/blob/master/Core/schema/Version%200.0.1/payment.json"
 		}
 
 	}

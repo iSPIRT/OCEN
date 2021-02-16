@@ -1,16 +1,16 @@
 {
     "$schema": "http://json-schema.org/draft-07/schema#", 
-	"$id": "https://github.com/juspay/lsp-lender-protocol-specification/blob/master/Core/schema/Version%200.0.1/choosenRepayment.json", 
+	"$id": "https://github.com/iSPIRT/lsp-lender-protocol-specification/blob/master/Core/schema/Version%200.0.1/choosenRepayment.json", 
 	"type": "object",
 	"required": [
 		"plan"
     ],
     "properties": {
         "plan":{
-            "$ref": "https://github.com/juspay/lsp-lender-protocol-specification/blob/master/Core/schema/Version%200.0.1/paymentplan.json"
+            "$ref": "https://github.com/iSPIRT/lsp-lender-protocol-specification/blob/master/Core/schema/Version%200.0.1/paymentplan.json"
         },
         "method":{
-            "$ref": "https://github.com/juspay/lsp-lender-protocol-specification/blob/master/Core/schema/Version%200.0.1/paymentmethod.json"
+            "$ref": "https://github.com/iSPIRT/lsp-lender-protocol-specification/blob/master/Core/schema/Version%200.0.1/paymentmethod.json"
         }
     }
 }

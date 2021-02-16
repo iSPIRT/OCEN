@@ -14,7 +14,7 @@
                     "content":{
                         "application/json":{
                             "schema":{
-                                "$ref":"https://github.com/juspay/lsp-lender-protocol-specification/blob/master/Loan%20Acceptance/schema/Version%200.0.1/Trigger%20Loan%20Acceptance/TriggerLoanAcceptanceRequest.json"
+                                "$ref":"https://github.com/iSPIRT/lsp-lender-protocol-specification/blob/master/Loan%20Acceptance/schema/Version%200.0.1/Trigger%20Loan%20Acceptance/TriggerLoanAcceptanceRequest.json"
                             }
                         }
                     }
@@ -25,7 +25,7 @@
                         "content":{
                             "application/json":{
                                 "schema":{
-                                "$ref":"https://github.com/juspay/lsp-lender-protocol-specification/blob/master/Core/schema/Version%200.0.1/ack.json"
+                                "$ref":"https://github.com/iSPIRT/lsp-lender-protocol-specification/blob/master/Core/schema/Version%200.0.1/ack.json"
                                 }
                             }
                         }
@@ -42,7 +42,7 @@
                     "content":{
                         "application/json":{
                             "schema":{
-                                "$ref":"https://github.com/juspay/lsp-lender-protocol-specification/blob/master/Loan%20Acceptance/schema/Version%200.0.1/Trigger%20Loan%20Acceptance/TriggerLoanAcceptanceResponse.json"
+                                "$ref":"https://github.com/iSPIRT/lsp-lender-protocol-specification/blob/master/Loan%20Acceptance/schema/Version%200.0.1/Trigger%20Loan%20Acceptance/TriggerLoanAcceptanceResponse.json"
                             }
                         }
                     }
@@ -53,7 +53,7 @@
                         "content":{
                             "application/json":{
                                 "schema":{
-                                "$ref":"https://github.com/juspay/lsp-lender-protocol-specification/blob/master/Core/schema/Version%200.0.1/ack.json"
+                                "$ref":"https://github.com/iSPIRT/lsp-lender-protocol-specification/blob/master/Core/schema/Version%200.0.1/ack.json"
                                 }
                             }
                         }
@@ -70,7 +70,7 @@
                     "content":{
                         "application/json":{
                             "schema":{
-                                "$ref":"https://github.com/juspay/lsp-lender-protocol-specification/blob/master/Loan%20Acceptance/schema/Version%200.0.1/Verify%20Loan%20Acceptance/VerifyLoanAcceptanceRequest.json"
+                                "$ref":"https://github.com/iSPIRT/lsp-lender-protocol-specification/blob/master/Loan%20Acceptance/schema/Version%200.0.1/Verify%20Loan%20Acceptance/VerifyLoanAcceptanceRequest.json"
                             }
                         }
                     }
@@ -81,7 +81,7 @@
                         "content":{
                             "application/json":{
                                 "schema":{
-                                "$ref":"https://github.com/juspay/lsp-lender-protocol-specification/blob/master/Core/schema/Version%200.0.1/ack.json"
+                                "$ref":"https://github.com/iSPIRT/lsp-lender-protocol-specification/blob/master/Core/schema/Version%200.0.1/ack.json"
                                 }
                             }
                         }
@@ -98,7 +98,7 @@
                     "content":{
                         "application/json":{
                             "schema":{
-                                "$ref":"https://github.com/juspay/lsp-lender-protocol-specification/blob/master/Loan%20Acceptance/schema/Version%200.0.1/Verify%20Loan%20Acceptance/VerifyLoanApplicationResponse.json"
+                                "$ref":"https://github.com/iSPIRT/lsp-lender-protocol-specification/blob/master/Loan%20Acceptance/schema/Version%200.0.1/Verify%20Loan%20Acceptance/VerifyLoanApplicationResponse.json"
                             }
                         }
                     }
@@ -109,7 +109,7 @@
                         "content":{
                             "application/json":{
                                 "schema":{
-                                "$ref":"https://github.com/juspay/lsp-lender-protocol-specification/blob/master/Core/schema/Version%200.0.1/ack.json"
+                                "$ref":"https://github.com/iSPIRT/lsp-lender-protocol-specification/blob/master/Core/schema/Version%200.0.1/ack.json"
                                 }
                             }
                         }

@@ -1,6 +1,6 @@
 {
 	"$schema": "http://json-schema.org/draft-07/schema#", 
-	"$id": "https://github.com/juspay/lsp-lender-protocol-specification/blob/master/Loan%20Acceptance/schema/Version%200.0.1/Trigger%20Loan%20Acceptance/TriggerLoanAcceptanceResponse.json",  
+	"$id": "https://github.com/iSPIRT/lsp-lender-protocol-specification/blob/master/Loan%20Acceptance/schema/Version%200.0.1/Trigger%20Loan%20Acceptance/TriggerLoanAcceptanceResponse.json",  
 	"type": "object",
 	"required": [
 		"metadata",
@@ -10,17 +10,17 @@
 	],
 	"properties": {
 		"metadata": {
-			"$ref": "https://github.com/juspay/lsp-lender-protocol-specification/blob/master/Core/schema/Version%200.0.1/metadata.json"
+			"$ref": "https://github.com/iSPIRT/lsp-lender-protocol-specification/blob/master/Core/schema/Version%200.0.1/metadata.json"
 		}
 ,
 		"requestId": { 
 			"type": "string"
 		},
 		"response":{
-			"$ref": "https://github.com/juspay/lsp-lender-protocol-specification/blob/master/Core/schema/Version%200.0.1/response.json"
+			"$ref": "https://github.com/iSPIRT/lsp-lender-protocol-specification/blob/master/Core/schema/Version%200.0.1/response.json"
 		},
 		"credBlock": {
-			"$ref": "https://github.com/juspay/lsp-lender-protocol-specification/blob/master/Core/schema/Version%200.0.1/credBlock.json"
+			"$ref": "https://github.com/iSPIRT/lsp-lender-protocol-specification/blob/master/Core/schema/Version%200.0.1/credBlock.json"
 		}
 
 	}

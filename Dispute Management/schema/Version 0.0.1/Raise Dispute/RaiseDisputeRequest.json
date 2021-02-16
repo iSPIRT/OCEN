@@ -1,6 +1,6 @@
 {
 	"$schema": "http://json-schema.org/draft-07/schema#", 
-	"$id": "https://github.com/juspay/lsp-lender-protocol-specification/blob/master/Dispute%20Management/schema/Version%200.0.1/Raise%20Dispute/RaiseDisputeRequest.json", 
+	"$id": "https://github.com/iSPIRT/lsp-lender-protocol-specification/blob/master/Dispute%20Management/schema/Version%200.0.1/Raise%20Dispute/RaiseDisputeRequest.json", 
 	"type": "object",
 	"required": [
 		"metadata",
@@ -10,7 +10,7 @@
 	],
 	"properties": {
 		"metadata": {
-			"$ref": "https://github.com/juspay/lsp-lender-protocol-specification/blob/master/Core/schema/Version%200.0.1/metadata.json"
+			"$ref": "https://github.com/iSPIRT/lsp-lender-protocol-specification/blob/master/Core/schema/Version%200.0.1/metadata.json"
 		}
 ,
 		"loanId": { 
@@ -27,7 +27,7 @@
 			]
 		},
 		"dispute": { 
-			"$ref": "https://github.com/juspay/lsp-lender-protocol-specification/blob/master/Core/schema/Version%200.0.1/dispute.json"
+			"$ref": "https://github.com/iSPIRT/lsp-lender-protocol-specification/blob/master/Core/schema/Version%200.0.1/dispute.json"
 		}
 
 	}

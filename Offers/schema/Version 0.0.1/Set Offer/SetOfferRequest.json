@@ -1,6 +1,6 @@
 {
 	"$schema": "http://json-schema.org/draft-07/schema#", 
-	"$id": "https://github.com/juspay/lsp-lender-protocol-specification/blob/master/Offers/schema/Version%200.0.1/Set%20Offer/SetOfferRequest.json",
+	"$id": "https://github.com/iSPIRT/lsp-lender-protocol-specification/blob/master/Offers/schema/Version%200.0.1/Set%20Offer/SetOfferRequest.json",
 	"type": "object",
 	"required": [
 		"metadata",
@@ -10,7 +10,7 @@
 	],
 	"properties": {
 		"metadata": {
-			"$ref": "https://github.com/juspay/lsp-lender-protocol-specification/blob/master/Core/schema/Version%200.0.1/metadata.json"
+			"$ref": "https://github.com/iSPIRT/lsp-lender-protocol-specification/blob/master/Core/schema/Version%200.0.1/metadata.json"
 			
 		}
 ,
@@ -21,7 +21,7 @@
 			"type": "string"
 		},
 		"offer": {
-			"$ref": "https://github.com/juspay/lsp-lender-protocol-specification/blob/master/Core/schema/Version%200.0.1/offer.json"
+			"$ref": "https://github.com/iSPIRT/lsp-lender-protocol-specification/blob/master/Core/schema/Version%200.0.1/offer.json"
 		}
 
 	}
